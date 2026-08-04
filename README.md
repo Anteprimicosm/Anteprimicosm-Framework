@@ -1,7 +1,7 @@
 # Anteprimicosm Framework
 
 > *A Philosophical Framework for Exploring the Conceptual Foundations of Describable Reality.*
-> Anteprimicosm-Framework/anteprimicosm-framework.png
+> (Anteprimicosm-Framework)/(figures/anteprimicosm-framework.png)
 ## Framework Overview
 
 ## Welcome
