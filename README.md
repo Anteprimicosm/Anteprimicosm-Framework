@@ -4,7 +4,7 @@
 
 ## Framework Overview
 
-![Anteprimicosm Framework](./figures/anteprimicosm-framework.png)
+![Anteprimicosm Framework](./figures/anteprimicosm-framework.PNG)
 
 ## Welcome
 
