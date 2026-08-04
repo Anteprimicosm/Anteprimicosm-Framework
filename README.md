@@ -4,6 +4,8 @@
 
 ## Framework Overview
 
+![Anteprimicosm Framework](figures/anteprimicosm-framework.png)
+
 ## Welcome
 
 The **Anteprimicosm Framework** is an original philosophical framework that explores the conceptual conditions under which describable reality becomes meaningful.
