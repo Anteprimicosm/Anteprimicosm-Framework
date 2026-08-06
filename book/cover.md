@@ -1,5 +1,4 @@
-                    [LOGO]
-
+                   
 
             ANTEPRIMICOSM
 
@@ -11,4 +10,4 @@
           First Edition
 
 
-              BFS · 2026
+            BFS · 2026
