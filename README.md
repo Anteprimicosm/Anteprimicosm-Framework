@@ -1,6 +1,8 @@
 # Anteprimicosm Framework
 
-> *A Philosophical Framework for Exploring the Conceptual Foundations of Describable Reality.*
+**First Edition • Version 1.0 (2026)**
+
+*A Philosophical Framework for Exploring the Conceptual Foundations of Describable Reality.*
 
 ## Framework Overview
 
